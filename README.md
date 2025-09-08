@@ -6,7 +6,9 @@ Start the program.
 3. Get the elements to be sorted
 4. Traverse the array and sort the elements one by one
 5. Print the sorted array
-6. Stop the program. 
+6. Stop the program.
+NAME :SHARVESHWARAN SS
+REG NO:212224220096
 # Program:
 ```
 n = int(input("Enter the number of elements: "))
